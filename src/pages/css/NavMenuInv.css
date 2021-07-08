@@ -1,0 +1,9 @@
+.menu-container
+{
+    background-image: linear-gradient(to bottom right,  rgba(151, 148, 197, 0.7), rgba(120, 81, 169, 1));
+}
+
+html
+{
+    font-family: 'Montserrat', sans-serif;
+}

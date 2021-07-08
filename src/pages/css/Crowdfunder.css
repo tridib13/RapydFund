@@ -1,0 +1,10 @@
+.wrapper
+{
+    height: 823px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    /* background-image: url('../../assets/money.jpg'); */
+}

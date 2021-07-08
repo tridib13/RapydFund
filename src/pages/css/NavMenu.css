@@ -1,0 +1,9 @@
+.menu-container-crowd
+{
+    background-image: linear-gradient(to bottom right,  rgba(115, 149, 174, 0.7), rgba(85, 122, 149, 1));
+}
+
+html
+{
+    font-family: 'Montserrat', sans-serif;
+}
